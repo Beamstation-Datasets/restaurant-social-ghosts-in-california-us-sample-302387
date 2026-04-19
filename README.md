@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in California, US
 
-> Free BeamStation sample export with 111 rows and masked direct-contact fields.
+> Free BeamStation sample export with 69 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `302387` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 1,116 records |
-| Free sample size | 111 records (9.95%) |
-| Last export | 2026-04-09T21:00:37.217729+00:00 |
+| Full dataset size | 694 records |
+| Free sample size | 69 records (9.94%) |
+| Last export | 2026-04-17T00:34:09.488872+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-california-us-sample-302387/releases/download/sample-latest/beamstation_302387_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
