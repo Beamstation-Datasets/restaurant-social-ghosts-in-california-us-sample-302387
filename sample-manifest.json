@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c4b58245-032f-4f74-b7cf-860053c35e0b",
+  "export_job_id": "aa689663-348c-4431-a144-1894545c28c2",
   "id_short": 302387,
-  "published_at": "2026-04-23T19:49:48Z",
+  "published_at": "2026-05-01T19:04:22Z",
   "repo_name": "restaurant-social-ghosts-in-california-us-sample-302387",
   "sample_asset_name": "beamstation_302387_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/302387/beamstation_302387_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "9a2c406c32c1095f63e4a765f37a0c006e6d554def9d76708221123eb10e1637",
-  "sample_size_bytes": 73894,
-  "total_records": 150
+  "sample_records": 37,
+  "sample_sha256": "973174fc6977f3e7fc7c34b4927d63602b8f1819699ff0194efe684458fa5c4f",
+  "sample_size_bytes": 154010,
+  "total_records": 376
 }
